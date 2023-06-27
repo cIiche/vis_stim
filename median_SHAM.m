@@ -1,4 +1,4 @@
- %%  Authors: Kat Floerchinger, Hannah Mach, Henry Tan
+
 %This code is for the Sham cohort to run through the data and get the
 %median values 
 close all
