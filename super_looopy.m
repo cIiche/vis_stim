@@ -1,4 +1,4 @@
-%% Authors: Devon Griggs, John Kucewicz, Nels Schimek, Kat Floerchinger, Hannah Mach, Alissa Phutirat, Henry Tan
+
 % This code is like the original loopy_ecog but will run statistic analysis
 % for kruskal wallis 3 pair, anova1, and mann whitney for all 3 pairs
 % individually
