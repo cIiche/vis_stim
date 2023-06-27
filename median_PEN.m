@@ -1,4 +1,3 @@
-%%  Authors: Kat Floerchinger, Henry Tan
 %This code is for the PEN cohort to run through the data and get the
 % median values ; it calls median_SHAM at the end 
 close all
