@@ -1,4 +1,4 @@
-%% Authors: Kat Floerchinger, Hannah Mach, Henry Tan :) 
+
 close all 
 %% matrixes from median_x scripts
 
