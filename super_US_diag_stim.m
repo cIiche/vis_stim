@@ -1,4 +1,4 @@
-%% Authors: Devon Griggs, John Kucewicz, Nels Schimek, Kat Floerchinger, Hannah Mach, Alissa Phutirat, Henry Tan
+
 %this code is meant to set the index_stim equal to 60 so that we can
 %standardize the length to calculate reliable p values 
 fs=tickrate(1);
